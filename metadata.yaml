@@ -1,0 +1,39 @@
+_repo: De-psychologie-der-sexen-De-sexen-in-hare-verhouding-tot-de-maatschappij_62660
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Renterghem, A. W. van (Albert Willem)
+    aliases:
+    - Van Renterghem, A. W. (Albert Willem)
+    - Renterghem, Albert Willem van
+    birthdate: 1845
+    deathdate: 1939
+    gutenberg_agent_id: '52063'
+    url: http://www.gutenberg.org/2009/agents/52063
+    wikipedia: https://nl.wikipedia.org/wiki/Albert_van_Renterghem
+creator:
+  author:
+    agent_name: Ellis, Havelock
+    alias: Ellis, Henry Havelock
+    birthdate: 1859
+    deathdate: 1939
+    gutenberg_agent_id: '2654'
+    url: http://www.gutenberg.org/2009/agents/2654
+    wikipedia: https://en.wikipedia.org/wiki/Havelock_Ellis
+description: 'Translation of Studies in the Psychology of Sex, Volume 6: Sex in Relation
+  to Society, #13615.'
+gutenberg_issued: '2020-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62660'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Sex (Psychology)'
+- !lcsh 'Sex'
+- GITenberg
+title: 'De psychologie der sexen: De sexen in hare verhouding tot de maatschappij'
+url: http://www.gutenberg.org/ebooks/62660
